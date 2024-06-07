@@ -1,4 +1,5 @@
 # Webpack Extension Reloader
+#Mudassir Alam
 
 A Webpack plugin to automatically reload browser extensions during development.
 
